@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <div className="grid place-items-center">
       <Image
-        src="/facebook-logo.png"
+        src="/facebook.webp"
         alt="facebook logo"
         width={400}
         height={400}
